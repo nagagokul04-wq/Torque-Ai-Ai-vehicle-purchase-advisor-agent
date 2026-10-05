@@ -1,0 +1,7 @@
+{
+  "name": "TorqueAI - Vehicle Purchase Advisor Agent",
+  "description": "Intelligent AI vehicle purchase advisor agent featuring vehicle matchmaking, out-the-door quote audit, negotiation playbooks, and 5-year total cost of ownership analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
